@@ -8,9 +8,13 @@ Understand what the company does, whom it serves, the recipient's relevance, and
 
 Save source URLs, dates, the factual observation, and why it matters to this candidate. If no relevant recent development is verifiable, use an observed product, business, or role detail. Tell the user about the research limitation; do not invent news or put an awkward research disclaimer in the recipient's message. If research access is insufficient, prepare a clearly labelled local draft for review and identify the missing verification before creating an addressed Gmail draft.
 
+Before drafting, make a short private connection note: **observation → relevance to this recipient's work → supported candidate proof → a useful question or tentative contribution**. Distinguish the sourced fact from your interpretation. If the only connection is that the company made news, choose a more relevant product or role detail, or explain that the evidence is insufficient. Recent news is an option, not a quota. [Annotated fictional examples](outreach-examples.md) show how to make this connection without supplying a universal email template.
+
 ## Write with a reason to respond
 
 Choose an angle that fits the recipient and the candidate's own voice. Do not prescribe a universal sequence or reuse a finished email across companies. Initial emails will usually work in 80–140 words; clarity and substance matter more than a word target. Channel limits and thread context may call for shorter text.
+
+Use the preferences from [voice calibration](evidence-and-voice.md). If the user has not supplied any and wants an immediate draft, write plainly and let them correct the tone. Match the most relevant evidence to this message instead of listing every achievement.
 
 Appreciate something specific and explain what is interesting about it. Avoid decorative praise or a news reference pasted onto an unrelated job pitch. Connect the observation to one relevant proof from the candidate's CV or portfolio. A useful idea may create interest, but label it as a possibility rather than diagnosing the company or promising a result.
 
@@ -27,6 +31,8 @@ Use an honest, specific subject. Close with one easy invitation: a relevant ques
 Avoid stock openings such as “I hope this email finds you well,” “esteemed organization,” “perfect fit,” and “unlock your potential.” Do not claim to be a customer, admirer, or long-time follower unless the user has established that. Never turn confidential portfolio information into a public link without authorization.
 
 Replies should answer the actual question first. Do not insert a cold introduction into an existing recruiter conversation. Ask the user for missing compensation, availability, or interview commitments rather than guessing.
+
+For substantive replies, introductions, call preparation, and recaps, read [conversation support](conversations.md). Keep reply preparation under the same draft and account boundaries as initial outreach.
 
 ## Save Gmail drafts
 

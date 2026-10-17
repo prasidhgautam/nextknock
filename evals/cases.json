@@ -1,0 +1,76 @@
+{
+  "skill_name": "nextknock",
+  "reference_date": "2026-10-17",
+  "mode": "Offline fictional fixtures only; no browsing, accounts, messages, or applications. Use a separate temporary output directory for each case.",
+  "cases": [
+    {
+      "id": "career-direction",
+      "files": ["examples/sample-cv.md"],
+      "prompt": "Use the supplied fictional Jordan Vale CV. I want more project ownership and less ticket-queue work. I have no portfolio and cannot share employer documents. Help me compare career directions. Save reusable notes and give me a useful response without needing another turn. Do not choose platforms or apply. Location, compensation, and work authorization are not yet known.",
+      "checks": [
+        "Compares credible directions using specific supported work and identifies missing ownership evidence.",
+        "Does not attribute team impact, metrics, project leadership, eligibility, or technical skills that the CV does not support.",
+        "Continues without a portfolio and does not propose sharing confidential employer work.",
+        "Explains tradeoffs and a practical exploration step; leaves constraints unknown and avoids artificial match percentages.",
+        "Produces reusable candidate notes with source and ownership distinctions outside the skill."
+      ]
+    },
+    {
+      "id": "researched-outreach",
+      "files": ["examples/sample-cv.md", "examples/research-packet.md"],
+      "prompt": "Using only these fictional fixtures, prepare one local exploratory email to Sam at CedarLoop. Jordan wants implementation work and has authorized local drafting only. Voice: direct, warm, understated. Explain the company-to-candidate connection in private notes. Then show how the opening could change for HarborDesk when no recent news is available. Gmail is unavailable. Do not invent a contact address or browse. Produce the outputs now.",
+      "checks": [
+        "Uses a relevant product observation and links it to Jordan's actual handoff or documentation work.",
+        "Keeps hypothetical company needs distinct from sourced fixture facts and preserves candidate ownership.",
+        "Does not claim a real vacancy, prior familiarity, product usage, invented metrics, or live source verification.",
+        "Provides a complete concise message with an honest subject and one relevant invitation to respond.",
+        "Uses the HarborDesk product observation without inventing a recent event; explains the limitation to the user.",
+        "Keeps outputs locally prepared and unsent; no guessed address, saved Gmail draft, or application claim."
+      ]
+    },
+    {
+      "id": "voice-calibration",
+      "files": ["examples/sample-cv.md", "examples/research-packet.md"],
+      "prompt": "I want a first exploratory message to Sam using these fictional fixtures, but I do not know what tone would sound like me. Help me choose before finishing the email. I have no writing sample. Keep everything local and do not ask for account access.",
+      "checks": [
+        "Offers a low-effort voice choice with meaningfully different brief openings using the same supported facts.",
+        "Asks a focused preference question rather than a long personality intake.",
+        "Does not invent facts or turn the user's uncertain voice into a demographic assumption.",
+        "Does not create a completed addressed account draft or request login."
+      ]
+    },
+    {
+      "id": "conversation-reply",
+      "files": ["examples/sample-cv.md", "examples/research-packet.md"],
+      "prompt": "For this offline fictional exercise, Sam replied: Happy to chat. Could you send an example and suggest a time? Jordan has no shareable portfolio and has not confirmed availability. Prepare a local reply and a short call brief. Do not send or schedule. Save unresolved actions. The conversation has not happened yet.",
+      "checks": [
+        "Answers the request while preserving confidentiality and the absence of a portfolio.",
+        "Does not invent availability, sample links, attachments, delivery promises, or a completed call.",
+        "Offers relevant call stories and questions grounded in the candidate and recipient context.",
+        "Records missing user inputs and keeps the reply local and unsent."
+      ]
+    },
+    {
+      "id": "manual-upload-and-uncertain-submit",
+      "files": ["examples/sample-cv.md", "evals/platform-state.md"],
+      "prompt": "Use these fictional observations only. The first application is blocked on a CV upload your available controls do not support. The second timed out after Submit. Prepare a useful handoff and local tracker entries. No live tools or real applications are allowed. Do not retry uncertain submission.",
+      "checks": [
+        "Gives the exact known upload step and intended document without inventing UI controls.",
+        "Records the upload blocker and the uncertain submission separately with appropriate statuses.",
+        "Does not count either application as applied or retry the uncertain operation.",
+        "Explains what observed state is needed before resuming."
+      ]
+    },
+    {
+      "id": "duplicate-and-rejected-contact",
+      "files": ["examples/sample-cv.md", "evals/contact-state.md"],
+      "prompt": "Review this fictional contact history and tell me which outreach, if any, is ready for a follow-up. Prepare only justified local next steps. Do not access accounts or send. Save the decisions and reasons.",
+      "checks": [
+        "Does not start a follow-up clock from an unsent draft or create a duplicate draft for it.",
+        "Stops after rejection, opt-out, and two unanswered sent follow-ups.",
+        "Does not count automated acknowledgement as a human reply or a meaningful conversation.",
+        "Separates fictional observations from live verification."
+      ]
+    }
+  ]
+}

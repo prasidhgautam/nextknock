@@ -16,6 +16,8 @@ If no account exists, explain the setup steps and prepare profile content. Assis
 
 Read the full vacancy and official company/careers information. Verify that the opening is current, the employer or recruiting partner is credible, and the responsibilities fit the search brief. Record missing compensation or reporting information as unknown. Do not manufacture a company problem to justify the candidate's relevance.
 
+Use the [evidence bank](evidence-and-voice.md) to connect the important responsibilities to supported examples. Explain strong fit, plausible stretch, or skip in plain language. Check firm constraints first; a preferred industry is different from a work-authorization requirement. Keep unknowns visible and do not assign artificial fit percentages.
+
 Use the approved document version. Tailor answers and notes to the role, while preserving the source and scope of claims. A listed skill alone does not establish years of experience. Answer screening filters literally. Prepare the rest of a form when a required fact is unknown, then ask for the missing information in one concise bundle. Optional unanswered fields may stay blank.
 
 Persist `submitting` before final submission. Observe a success screen or application record before recording `applied`. A saved form, uploaded CV, or drafted email is not a submitted application. If submission is uncertain, use `needs_verification` and inspect the record before retrying. Never resubmit blindly.

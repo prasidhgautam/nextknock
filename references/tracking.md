@@ -6,6 +6,8 @@ Use a private `job-search` directory in the user's active workspace, outside the
 
 Keep a local Markdown tracker plus an append-only JSONL activity ledger. Add a compact preferences/evidence record as needed. Save only the candidate facts, sources, confirmed preferences, account choice, and action records needed to resume. Unknowns stay unknown. Never save credentials, cookies, verification codes, or unrelated mail. Do not copy full candidate files unless needed and authorized; reference the current supplied source and version instead.
 
+Use the [evidence bank and voice preferences](evidence-and-voice.md) as the reusable candidate context. Link opportunity assessments and private draft notes to evidence IDs. On resume, confirm changed source versions, direction, and material constraints; do not repeat settled intake or treat stale sources as current.
+
 A user may select a connected tracker. Use that exact tracker and preserve their edits. Local snapshots do not override its current state. Do not require a particular spreadsheet provider, hard-coded URL, approval column, or external helper script. When exporting the reusable skill, exclude all runtime state and candidate materials.
 
 ## Minimum useful records
@@ -41,3 +43,9 @@ Retain the underlying prepared/draft status when an item has a manual blocker, s
 ## End-of-run report
 
 Report verified applications, confirmed Gmail drafts, locally prepared messages, observed replies/conversations, and incomplete steps separately. Include useful sources and real references, a few skip reasons, and one bundled request for missing facts if necessary. State any limits in access or history coverage. Future review dates are reminders in the tracker, not automatic monitoring or scheduled sends.
+
+## Learn from use when requested
+
+Keep feedback private and optional. Record where the user needed help, substantial factual or voice edits, and their own estimate of time saved if supplied. Do not invent time savings or upload analytics. Ask whether a wording edit should become a recurring preference before applying it broadly when that is unclear.
+
+When reviewing outreach outcomes, distinguish automated acknowledgements, human replies, relevant conversations, interviews, and rejections. If a reply rate is useful, report the observation window and numerator/denominator: unique initial outreach threads with a human reply divided by unique verified sent initial outreach threads in the same cohort. Do not count unsent drafts, follow-ups as new initial contacts, or duplicates. Unknown sent/history coverage means the rate is incomplete. Show counts and avoid conclusions from a small or unevenly aged sample. Outcomes alone do not prove the skill caused an improvement.
