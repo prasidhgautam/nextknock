@@ -1,0 +1,32 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# Private candidate materials and runtime state
+job-search/
+candidate-data/
+private/
+runtime/
+trackers/
+*.pdf
+*.docx
+*.xlsx
+*.jsonl
+preferences.json
+activity.jsonl
+
+# Build/release artifacts belong in release assets
+.git/
+*.zip
+*.tar.gz

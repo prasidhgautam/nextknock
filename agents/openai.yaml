@@ -1,0 +1,4 @@
+interface:
+  display_name: "NextKnock"
+  short_description: "Find your next step and start career conversations"
+  default_prompt: "Use $nextknock to review my CV and portfolio, discuss my next career step, then help with suitable platforms, applications, and researched Gmail drafts."
