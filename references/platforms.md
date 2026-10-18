@@ -6,6 +6,8 @@ Inspect available connectors and their documentation first. For browser work, us
 
 Identify the account before reading or writing. Use the user's chosen job-search identity; do not assume the active account is appropriate. Limit mail access to relevant career threads. If access is missing, provide connection/sign-in instructions grounded in the available interface and continue research or drafting locally.
 
+LinkedIn has a specific permission boundary: ordinary browser automation of its website is prohibited by its published guidance. Use [LinkedIn assistance](linkedin.md) for manual Easy Apply, invitations and messages, or a verified explicitly permitted integration for the exact operation. Browser control, user consent, and Premium alone do not establish platform permission. External employer forms retain their own supported workflow.
+
 ## Profiles and missing accounts
 
 If a profile exists, compare it with the approved candidate evidence. Draft accurate headlines, summaries, experience descriptions, skills, and work-sample links suited to the agreed direction. Show the proposed changes and publish only the authorized fields. Do not rewrite a CV file unless requested.

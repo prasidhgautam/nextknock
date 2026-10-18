@@ -13,4 +13,6 @@ These cases test observable behavior using invented candidate and company materi
 
 Start with the career-direction, researched-outreach, and voice-calibration cases for a version comparison. The remaining cases check conversations and action boundaries. Structured status checks can be automated when a host exposes a stable output format; this instruction-only release does not bundle a model runner or require an API subscription.
 
-See [v0.2.0 validation](v0.2.0-results.md) for the checks actually performed for this release. The fixtures and walkthrough may be shared under the repository's license; they must never be imported as a real user's evidence.
+See [v0.2.0 validation](v0.2.0-results.md) for earlier checks. The fixtures and walkthrough may be shared under the repository's license; they must never be imported as a real user's evidence.
+
+For v0.3.0, use [linkedin-cases.json](linkedin-cases.json) and its separate [synthetic state packet](linkedin-state.md). They cover application/people coverage, shared-contact and InMail deduplication, Premium capability gaps, acceptance identity, missing scheduling/access, interrupted agents, and recipient-specific pitches. They use different candidate/company material from the writing examples. Each variant is independent unless the selected prompt explicitly combines them; do not combine conflicting account histories. Review [v0.3.0 results](v0.3.0-results.md) for actual execution and limits. No simulated permitted integration authorizes a real operation.

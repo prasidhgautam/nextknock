@@ -2,7 +2,7 @@
 
 ## Research before writing
 
-Identify an appropriate recipient: the actual recruiter, relevant functional leader, or a founder who plausibly owns hiring. Verify identity and professional contact details using the vacancy, official sources, public professional information, or an existing thread. Do not guess email patterns. One relevant contact per opportunity is preferable to approaching several colleagues with the same pitch. A suitable conversation can be exploratory when no vacancy exists, but never imply there is an open role without evidence.
+Identify an appropriate recipient: the actual recruiter, relevant functional leader, or a founder who plausibly owns hiring. Verify identity and professional contact details using the vacancy, official sources, permitted professional information, or an existing thread. Do not guess email patterns. Choose contact coverage appropriate to the user's scoped workflow. For [LinkedIn opportunity networking](linkedin.md), research 2–3 relevant functional people and 1–2 recruiting/HR people where justified, with a distinct reason for each person to care. For other outreach, a focused initial contact is often sufficient. Never send several colleagues the same pitch or repeated referral requests. A suitable conversation can be exploratory when no vacancy exists, but never imply there is an open role without evidence.
 
 Understand what the company does, whom it serves, the recipient's relevance, and where the candidate's evidence connects. Seek a meaningful company development in the preceding 12 months relative to the current date: a product release, expansion, initiative, campaign, technical milestone, or substantive interview. Prefer original company announcements and first-hand material; use credible reporting when needed. Verify the event date as well as publication date so a repost does not make old news recent.
 
@@ -15,6 +15,8 @@ Before drafting, make a short private connection note: **observation → relevan
 Choose an angle that fits the recipient and the candidate's own voice. Do not prescribe a universal sequence or reuse a finished email across companies. Initial emails will usually work in 80–140 words; clarity and substance matter more than a word target. Channel limits and thread context may call for shorter text.
 
 Use the preferences from [voice calibration](evidence-and-voice.md). If the user has not supplied any and wants an immediate draft, write plainly and let them correct the tone. Match the most relevant evidence to this message instead of listing every achievement.
+
+Humanize through the candidate's natural phrasing, a concrete observation, honest contribution, and consideration for this person's work. A functional leader may care about a work tradeoff; a recruiter may care about role relevance and credible scope. Do not swap names in an otherwise identical finished message. A connection note establishes relevance briefly; a post-acceptance pitch or eligible direct message can develop the connection. Neither an acceptance nor a Premium badge means a message was sent or a reply is owed.
 
 Appreciate something specific and explain what is interesting about it. Avoid decorative praise or a news reference pasted onto an unrelated job pitch. Connect the observation to one relevant proof from the candidate's CV or portfolio. A useful idea may create interest, but label it as a possibility rather than diagnosing the company or promising a result.
 
@@ -49,6 +51,8 @@ If Gmail is unavailable, provide the complete recipient (when verified), subject
 ## Follow-ups and conversation outcomes
 
 Check the latest relevant thread and actual sent state first, including messages sent manually by the user. An unsent draft does not start a follow-up clock. Respect a promised response date; otherwise use five business days after the last sent message for a first follow-up, then seven business days after the first sent follow-up for a second. These are editable review defaults, using weekdays unless a verified holiday calendar is available.
+
+Reconcile LinkedIn invitations, InMail, direct messages, and email together. A sent invitation or acceptance alone does not start the pitch follow-up clock. An accepted connection must not trigger another initial pitch if one was already sent through another route. Apply rejection, opt-out, and unanswered-follow-up stops across channels and all linked vacancies; never switch routes to evade a stop.
 
 Add a relevant thought or answer the pending question; avoid empty “just checking in” reminders. Do not reintroduce the candidate as though there were no prior contact. Stop on rejection, opt-out, closure, or after two unanswered sent follow-ups. A received reply takes priority over a planned nudge. If the role is closed, do not turn a rejection into a fresh speculative pitch without a distinct user request and legitimate context.
 
